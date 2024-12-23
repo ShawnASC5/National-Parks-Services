@@ -1,0 +1,33 @@
+What Did I Learn Throughout the Process?
+Exploring the Data:
+
+I discovered that the conservation status "Species of Concern" dominates the dataset, while statuses like "Endangered" and "In Recovery" are relatively rare.
+Working through the data revealed how the dominance of Vascular Plants in the dataset influences overall patterns, requiring normalization to better understand risks for smaller categories like Mammals and Birds.
+Modeling and Statistical Testing:
+
+Through predictive modeling, I learned how features like "Species of Concern" play the most significant role in predicting endangered status, while low-importance features like "Reptiles" can add noise to models.
+Statistical testing (Chi-Square) confirmed that the relationship between species categories and conservation statuses is significant, providing a strong foundation for conservation-focused insights.
+Visualization and Insights:
+
+Visualizing the data provided critical insights into which species categories (Mammals, Birds, and Fish) are most at risk, and which parks host the most observed species.
+Are the Results What I Expected?
+Expected Results:
+I anticipated that Mammals and Birds might be heavily represented in higher-risk categories due to ecological pressures and habitat destruction. These findings aligned with my expectations.
+Unexpected Results:
+I did not expect Vascular Plants to overwhelmingly dominate the "No Status" category, raising questions about whether their conservation is underreported or less critical in current frameworks.
+The high proportion of Fish in the "Threatened" category was also surprising, leading to further curiosity about potential factors like pollution or habitat loss.
+Key Findings and Takeaways:
+Conservation Risks:
+
+Mammals and Fish show the highest risks of being endangered, making them a priority for conservation efforts.
+Birds, though not heavily endangered, dominate the "Species of Concern" category, highlighting the need for preemptive monitoring.
+Ecological Patterns:
+
+Observations in national parks reflect the adaptability and ecological dominance of species like pigeons and Yorkshire fog grass.
+Data Insights:
+
+Normalizing the dataset provided a clearer picture of relative risks, revealing how smaller categories like Amphibians and Fish face significant threats.
+Actionable Recommendations:
+
+Conservation efforts should prioritize Mammals, Fish, and Birds based on their higher-risk or pre-risk statuses.
+Further research is needed to understand why Vascular Plants dominate "No Status" and if their risks are under-assessed.
